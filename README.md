@@ -2,7 +2,8 @@
 
 ```python
 class AboutMe():
-  # I'm a passionate Data Science Enthusiast.
+  # I'm a passionate Data Science enthusiast specializing in predictive modeling.
+  # With a deep understanding of machine learning and artificial intelligence techniques, I excel at building and deploying models that drive actionable insights.
   # I’m currently a University of Connecticut student learning MS in Business Analytics and Project Management
     
   def __init__(self):
