@@ -28,11 +28,6 @@ if __name__ == '__main__':
       <source srcset="https://github-readme-stats.vercel.app/api?username=rohitakole50&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=rohitakole50&show_icons=true" />
     </picture>
-    <picture>
-      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=rohitakole50&theme=dracula" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=rohitakole50" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=rohitakole50" />
-    </picture>
   </div>
   <br><br><br><br><br><br><br><br>
 <!--   <div align=center>
